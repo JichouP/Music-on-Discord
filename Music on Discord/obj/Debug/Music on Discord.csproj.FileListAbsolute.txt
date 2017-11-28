@@ -1,0 +1,10 @@
+C:\Users\JichouP\Desktop\Music on Discord\Music on Discord\bin\Debug\Music on Discord.exe.config
+C:\Users\JichouP\Desktop\Music on Discord\Music on Discord\bin\Debug\Music on Discord.exe
+C:\Users\JichouP\Desktop\Music on Discord\Music on Discord\bin\Debug\Music on Discord.pdb
+C:\Users\JichouP\Desktop\Music on Discord\Music on Discord\obj\Debug\Music on Discord.csprojResolveAssemblyReference.cache
+C:\Users\JichouP\Desktop\Music on Discord\Music on Discord\obj\Debug\Music_on_Discord.Form1.resources
+C:\Users\JichouP\Desktop\Music on Discord\Music on Discord\obj\Debug\Music_on_Discord.Properties.Resources.resources
+C:\Users\JichouP\Desktop\Music on Discord\Music on Discord\obj\Debug\Music on Discord.csproj.GenerateResource.Cache
+C:\Users\JichouP\Desktop\Music on Discord\Music on Discord\obj\Debug\Music on Discord.csproj.CoreCompileInputs.cache
+C:\Users\JichouP\Desktop\Music on Discord\Music on Discord\obj\Debug\Music on Discord.exe
+C:\Users\JichouP\Desktop\Music on Discord\Music on Discord\obj\Debug\Music on Discord.pdb
